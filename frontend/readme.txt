@@ -1,0 +1,1 @@
+Placeholder for frontend project. Idea is to create a working backend API and then connect to separate frontend application using something like Alpine, Vue or Svelte.
